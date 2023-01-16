@@ -2,6 +2,7 @@
 
 ## 구성 방법
 * Local의 Kind cluster에 Helm Chart를 사용하여 배포
+* 어떤 지표가 중점적으로 모니터링이 필요한지에 대한 경험이 부족하여 해외 블로그 자료들을 이용했습니다. 
 
 
 ![모니터링3](https://user-images.githubusercontent.com/47857304/212628650-f97cca4f-5a81-4cd6-8ed7-a471128ade99.png)
